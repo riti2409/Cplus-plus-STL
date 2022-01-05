@@ -1,2 +1,2 @@
 # c++-stl
-C++ STL
+A quick revision on C++ STL
