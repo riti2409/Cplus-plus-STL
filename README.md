@@ -8,7 +8,7 @@
    https://www.youtube.com/watch?v=zBhVZzi5RdU&ab_channel=takeUforward
  
  - Notes :
-    [C++ STL.pdf](https://github.com/riti2409/Cplus-plus-STL/files/7954857/C%2B%2B.STL.pdf)
+    https://drive.google.com/file/d/13b461lxGsYuF-9cCz-nzhf_KhFLdw3hx/view?usp=sharing
 
 - For practice:
     https://www.hackerrank.com/domains/cpp/stl/page/1
